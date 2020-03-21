@@ -1,0 +1,72 @@
+autoUpdate:
+  enabled: false
+  schedule: ""
+bootConfigURL: https://github.com/jenkins-x/jenkins-x-boot-config.git
+cluster:
+  gitKind: github
+  gitName: github
+  gitServer: https://github.com
+  environmentGitPublic: true
+  namespace: jx
+  provider: gke
+environments:
+- ingress:
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: dev
+- ingress:
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: staging
+- ingress:
+    domain: ""
+    externalDNS: false
+    namespaceSubDomain: ""
+    tls:
+      email: ""
+      enabled: false
+      production: false
+  key: production
+gitops: true
+ingress:
+  domain: ""
+  externalDNS: false
+  namespaceSubDomain: -jx.
+  tls:
+    email: ""
+    enabled: false
+    production: false
+kaniko: true
+repository: nexus
+secretStorage: local
+storage:
+  backup:
+    enabled: false
+    url: ""
+  logs:
+    enabled: false
+    url: ""
+  reports:
+    enabled: false
+    url: ""
+  repository:
+    enabled: false
+    url: ""
+vault: {}
+velero:
+  schedule: ""
+  ttl: ""
+versionStream:
+  ref: master
+  url: https://github.com/jenkins-x/jenkins-x-versions.git
+webhook: prow

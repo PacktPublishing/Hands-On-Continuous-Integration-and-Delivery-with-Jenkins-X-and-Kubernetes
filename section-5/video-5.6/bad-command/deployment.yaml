@@ -1,0 +1,23 @@
+---
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: plone
+  labels:
+    app: plone
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: plone
+  template:
+    metadata:
+      labels:
+        app: plone
+    spec:
+      containers:
+      - name: plone
+        image: plone:5.2.1-alpine
+        command: ["/bin/false"] # Causes the container to fail on startup
+        ports:
+        - containerPort: 8080

@@ -1,0 +1,15 @@
+{
+  "name": "express-hello",
+  "version": "1.0.0",
+  "description": "Express Hello World",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,13 @@
+buildPack: javascript
+pipelineConfig:
+  pipelines:
+    release:
+      build:
+        replace: true
+        steps:
+        - sh: jx step credential -s npm-token -k file -f /builder/home/.npmrc --optional=true
+          name: npmrc
+        - sh: npm install
+          name: npm-install
+        - sh: export VERSION=$PREVIEW_VERSION && skaffold build -f skaffold.yaml
+          name: container-build

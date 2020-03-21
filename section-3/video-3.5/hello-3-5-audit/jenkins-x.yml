@@ -1,0 +1,8 @@
+buildPack: javascript
+pipelineConfig:
+  pipelines:
+    release:
+      build:
+        steps:
+        - sh: npm audit
+          name: npm-audit

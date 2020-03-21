@@ -1,0 +1,4 @@
+ingress:
+  enabled: true
+  hosts:
+    - bookstack.REPLACE_ME_INGRESS_IP.nip.io
