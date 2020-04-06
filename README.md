@@ -22,7 +22,7 @@ This course adopts a step-by-step approach to show you how to use Jenkins X, wit
 This course is for developers, IT/DevOps professionals, or system admins keen to take advantage of Jenkins X and Kubernetes to enhance their Continuous Delivery processes. A basic knowledge of developing and building software is assumed.
 This course requires use of a text editor (e.g. Atom); Git client (graphical or command line); and access to Google Cloud Engine and GitHub.
 
-### Technical Requirements <br/>
+## Technical Requirements <br/>
 #### Minimum Hardware Requirements
 For successful completion of this course, students will require a computer system with at least the following:
 
