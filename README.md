@@ -10,11 +10,11 @@ This course adopts a step-by-step approach to show you how to use Jenkins X, wit
 <DIV class>
 
 <UL>
-• Install and configure Jenkins X in a cloud environment with Google Cloud Platform
-• Build an application with Jenkins X, or import an existing application so you can get started quickly
-• Control how Jenkins X builds and deploys your applications so you can create the build and test pipeline that works for you
-• Build preview environments so you can test the latest software changes in your application before you promote it to production
-• Managing application updates (including manual promotion, rolling updates, and pull requests) so you can accelerate the delivery of your application<br/>
+•Install and configure Jenkins X in a cloud environment with Google Cloud Platform<br/>
+•Build an application with Jenkins X, or import an existing application so you can get started quickly<br/>
+•Control how Jenkins X builds and deploys your applications so you can create the build and test pipeline that works for you<br/>
+•Build preview environments so you can test the latest software changes in your application before you promote it to production<br/>
+•Managing application updates (including manual promotion, rolling updates, and pull requests) so you can accelerate the delivery of your application<br/>
 </LI></UL></DIV>
 
 ## Instructions and Navigation
