@@ -10,11 +10,11 @@ This course adopts a step-by-step approach to show you how to use Jenkins X, wit
 <DIV class>
 
 <UL>
-•Install and configure Jenkins X in a cloud environment with Google Cloud Platform<br/>
-•Build an application with Jenkins X, or import an existing application so you can get started quickly<br/>
-•Control how Jenkins X builds and deploys your applications so you can create the build and test pipeline that works for you<br/>
-•Build preview environments so you can test the latest software changes in your application before you promote it to production<br/>
-•Managing application updates (including manual promotion, rolling updates, and pull requests) so you can accelerate the delivery of your application<br/>
+• Install and configure Jenkins X in a cloud environment with Google Cloud Platform<br/>
+• Build an application with Jenkins X, or import an existing application so you can get started quickly<br/>
+• Control how Jenkins X builds and deploys your applications so you can create the build and test pipeline that works for you<br/>
+• Build preview environments so you can test the latest software changes in your application before you promote it to production<br/>
+• Managing application updates (including manual promotion, rolling updates, and pull requests) so you can accelerate the delivery of your application<br/>
 </LI></UL></DIV>
 
 ## Instructions and Navigation
@@ -33,7 +33,7 @@ Storage: 120 GB
 
 The course examples demonstrate the installation and use on Linux. To run with the minimum hardware requirements, students will also need the ability to create Kubernetes clusters in a cloud environment.
 
-Recommended Hardware Requirements
+#### Recommended Hardware Requirements <br/>
 For an optimal experience with hands-on labs and other practical activities, students require access to sufficient hardware to run a virtual machine:
 
 OS: Linux (recommended), Windows, or macOS
@@ -43,7 +43,7 @@ Storage: 120 GB
 
 This will permit using Jenkins X and Kubernetes via Minikube. Access to a cloud environment is also strongly recommended.
 
-Software Requirements
+#### Software Requirements<br/>
 The following requirements are recommended to view and edit the example files.
 
 Operating system: Windows, Linux, or macOS
