@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-continuous-integration-and-delivery-with-jenkins-x-and-kubernetes-video/9781838982065)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Hands-On Continuous Integration and Delivery with Jenkins X and Kubernetes [Video]
 This is the code repository for [Hands-On Continuous Integration and Delivery with Jenkins X and Kubernetes [Video]]( https://www.packtpub.com/cloud-networking/hands-on-continuous-integration-and-delivery-with-jenkins-x-and-kubernetes-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 
