@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V15252?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Hands-On Continuous Integration and Delivery with Jenkins X and Kubernetes [Video]
 This is the code repository for [Hands-On Continuous Integration and Delivery with Jenkins X and Kubernetes [Video]]( https://www.packtpub.com/cloud-networking/hands-on-continuous-integration-and-delivery-with-jenkins-x-and-kubernetes-video), published by [Packt](https://www.packtpub.com/?utm_source=github ). It contains all the supporting project files necessary to work through the video course from start to finish.
 
